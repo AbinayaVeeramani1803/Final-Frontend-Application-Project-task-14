@@ -1,0 +1,24 @@
+.cards{
+display:flex;
+justify-content:center;
+gap:25px;
+margin-top:40px;
+}
+
+.package{
+background:white;
+padding:25px;
+border-radius:10px;
+box-shadow:0 0 8px gray;
+width:250px;
+text-align:center;
+}
+
+.package button{
+margin-top:20px;
+padding:10px 20px;
+background:#0d6efd;
+border:none;
+color:white;
+border-radius:5px;
+}
